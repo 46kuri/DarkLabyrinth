@@ -10,7 +10,7 @@ api:
   - 3.0.0-ALPHA11
   - 4.0.0
 load: POSTWORLD
-author: siropan
+author: 46kuri_
 
 commands:
   killer:
